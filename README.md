@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey! Wei here 😉 | </h1>
+<h1 align="center">Hey! Wei here 😉 </h1>
 
 
 <p align="center">
