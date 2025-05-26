@@ -6,6 +6,7 @@
   🎓 Computer Science @ <strong>Aarhus University (Denmark)</strong> <br>
   🎯 Passionate about <strong>AI</strong> · <strong>Multimodal Deep Learning</strong> · <strong>XR</strong> <br>
   💼 Related Experience @ <strong>XR Lab</strong> · <strong>Dandesign</strong> <br>
+  🤐 Due to privacy requirements, I cannot provide open source information for all projects.
 </p>
 
 <h3 align="center">📫Connection</h3>
